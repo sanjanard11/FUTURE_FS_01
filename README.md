@@ -8,7 +8,7 @@ A modern, full-stack personal portfolio website built with React.js and Node.js,
 ![MongoDB](https://img.shields.io/badge/Database-MongoDB-success)
 
 ### 🌐 Live Deployment
-**Frontend**: [GitHub Pages](https://Samson-lgs.github.io/Future_FS_01) (Static)  
+**Frontend**: [GitHub Pages](https://sanjanard11.github.io/Future_FS_01) (Static)  
 **Backend**: Not deployed (requires Render/Railway/Heroku for full functionality)
 
 ---
@@ -33,7 +33,7 @@ A modern, full-stack personal portfolio website built with React.js and Node.js,
 ### 📦 Deliverable:
 A live portfolio website with source code hosted on GitHub.
 
-**Developer**: Samson Jose J  
+**Developer**: SANJANA RD
 **Internship**: Future Interns - Full Stack Web Development
 
 ---
@@ -291,7 +291,7 @@ Modify CSS variables in `client/src/index.css`:
 
 3. **Add to `client/package.json`**
    ```json
-   "homepage": "https://Samson-lgs.github.io/Future_FS_01",
+   "homepage": "https://sanjanard11.github.io/Future_FS_01",
    "scripts": {
      "predeploy": "npm run build",
      "deploy": "gh-pages -d build"
@@ -303,7 +303,7 @@ Modify CSS variables in `client/src/index.css`:
    npm run deploy
    ```
 
-5. **Access your site at**: `https://Samson-lgs.github.io/Future_FS_01`
+5. **Access your site at**: `https://sanjanard11.github.io/Future_FS_01`
 
 #### ⚠️ GitHub Pages Limitations
 
@@ -430,9 +430,9 @@ This project is licensed under the MIT License - feel free to use it for your ow
 ## 👨‍💻 Author
 
 **Samson Jose J**
-- Email: sanjaysamson0522@gmail.com
-- LinkedIn: [Samson Jose J](https://www.linkedin.com/in/samson-jose-j-b7b0703b2/)
-- GitHub: [Samson-lgs](https://github.com/Samson-lgs)
+- Email: sanjanasanju06256@gmail.com
+- LinkedIn: [Sanjana RD](https://www.linkedin.com/in/sanjana-rd-4a2244359)
+- GitHub: [Sanjana RD](https://github.com/sanjanard11/)
 
 ---
 
@@ -448,7 +448,7 @@ This project is licensed under the MIT License - feel free to use it for your ow
 
 If you have any questions or need help, feel free to:
 - Open an issue on GitHub
-- Email me at sanjaysamson0522@gmail.com
+- Email me at sanjanasanju06256@gmail.com
 - Connect on LinkedIn
 
 ---
