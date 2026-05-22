@@ -107,7 +107,7 @@ Before you begin, ensure you have the following installed:
    MONGODB_URI=mongodb://localhost:27017/portfolio
    EMAIL_USER=your-email@gmail.com
    EMAIL_PASS=your-app-password
-   EMAIL_TO=sanjaysamson0522@gmail.com
+   EMAIL_TO=sanjanasanju06256@gmail.com
    CLIENT_URL=http://localhost:3000
    ```
 
@@ -331,8 +331,8 @@ To enable **backend functionality** (contact form, database, emails), deploy bac
    MONGODB_URI=your-mongodb-atlas-uri
    EMAIL_USER=your-email@gmail.com
    EMAIL_PASS=your-app-password
-   EMAIL_TO=sanjaysamson0522@gmail.com
-   CLIENT_URL=https://Samson-lgs.github.io/Future_FS_01
+   EMAIL_TO=sanjanasanju06256@gmail.com
+   CLIENT_URL=https://sanjanard11.github.io/Future_FS_01
    ```
 5. **Deploy** - Render will provide a backend URL
 6. **Update frontend** to use backend URL for API calls
