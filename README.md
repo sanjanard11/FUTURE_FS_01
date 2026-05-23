@@ -8,7 +8,7 @@ A modern, full-stack personal portfolio website built with React.js and Node.js,
 ![MongoDB](https://img.shields.io/badge/Database-MongoDB-success)
 
 ### 🌐 Live Deployment
-**Frontend**: [GitHub Pages](https://github.com/sanjanard11/FUTURE_FS_01.git)(Static)  
+**Frontend**: [https://sanjana-portfolio-2026.surge.sh](https://github.com/sanjanard11/FUTURE_FS_01.git)(Static)  
 **Backend**: Not deployed (requires Render/Railway/Heroku for full functionality)
 
 ---
