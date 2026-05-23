@@ -8,7 +8,7 @@ A modern, full-stack personal portfolio website built with React.js and Node.js,
 ![MongoDB](https://img.shields.io/badge/Database-MongoDB-success)
 
 ### 🌐 Live Deployment
-**Frontend**: [GitHub Pages](https://sanjanard11.github.io/Future_FS_01) (Static)  
+**Frontend**: [GitHub Pages](https://github.com/sanjanard11/FUTURE_FS_01.git)(Static)  
 **Backend**: Not deployed (requires Render/Railway/Heroku for full functionality)
 
 ---
@@ -303,7 +303,7 @@ Modify CSS variables in `client/src/index.css`:
    npm run deploy
    ```
 
-5. **Access your site at**: `https://sanjanard11.github.io/Future_FS_01`
+5. **Access your site at**: 'https://github.com/sanjanard11/FUTURE_FS_01.git'
 
 #### ⚠️ GitHub Pages Limitations
 
@@ -332,7 +332,7 @@ To enable **backend functionality** (contact form, database, emails), deploy bac
    EMAIL_USER=your-email@gmail.com
    EMAIL_PASS=your-app-password
    EMAIL_TO=sanjanasanju06256@gmail.com
-   CLIENT_URL=https://sanjanard11.github.io/Future_FS_01
+   CLIENT_URL=https://github.com/sanjanard11/FUTURE_FS_01.git
    ```
 5. **Deploy** - Render will provide a backend URL
 6. **Update frontend** to use backend URL for API calls
