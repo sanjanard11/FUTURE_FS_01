@@ -429,7 +429,7 @@ This project is licensed under the MIT License - feel free to use it for your ow
 
 ## 👨‍💻 Author
 
-**Samson Jose J**
+**SANJANA RD**
 - Email: sanjanasanju06256@gmail.com
 - LinkedIn: [Sanjana RD](https://www.linkedin.com/in/sanjana-rd-4a2244359)
 - GitHub: [Sanjana RD](https://github.com/sanjanard11/)
